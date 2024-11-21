@@ -1,4 +1,5 @@
 E0-MLP_results.json
+*.html
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
