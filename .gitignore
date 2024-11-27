@@ -2,6 +2,7 @@ E0-MLP_results.json
 *.html
 data/processed_images/*
 E1-misclassified/*
+*.keras
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
