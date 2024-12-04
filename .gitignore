@@ -3,6 +3,7 @@ E0-MLP_results.json
 data/processed_images/*
 E1-misclassified/*
 *.keras
+space_videos/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
