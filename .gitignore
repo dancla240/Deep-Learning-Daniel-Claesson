@@ -5,6 +5,7 @@ E1-misclassified/*
 *.keras
 Lab_1_Space_Invaders/videos/*
 Lab_Space_Invaders/videos/*
+Lab_Space_Invaders/space_videos/*
 space_videos/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
