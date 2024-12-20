@@ -16,6 +16,8 @@ space_videos/*
 data/text/*
 data/jena_climate_2009_2016.csv
 data/jena_climate_2009_2016.csv/*
+best_model_augment_dropout.keras
+feature_extraction.keras
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
