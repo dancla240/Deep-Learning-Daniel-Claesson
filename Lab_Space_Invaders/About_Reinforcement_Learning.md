@@ -56,9 +56,9 @@
 - Varje möjligt state finns som en rad
 - Varje möjlig action i varje state, finns i en kolumn, exempel med "cliff":
 <br>
-<img src="bilder\\cliff_q_values.png" alt="Alt Text" width="400" height="250">
+<img src="bilder\\cliff_q_values.PNG" alt="Alt Text" width="400" height="250">
 <br>
-<img src="bilder\\q_table.png" alt="Alt Text" width="400" height="250">
+<img src="bilder\\q_table.PNG" alt="Alt Text" width="400" height="250">
 <br>
 
 ## Länkar
