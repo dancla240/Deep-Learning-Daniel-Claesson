@@ -183,3 +183,7 @@ cython_debug/
 breakout_model_1.keras
 breakout_model_2860.keras
 binary_1gram.keras
+jena_dense_baseline.keras
+jena_lstm_dropout.keras
+tfidf_2gram.keras
+data/convnet_from_scratch_with_augmentation.keras
